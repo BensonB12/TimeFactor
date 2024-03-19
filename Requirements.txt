@@ -1,0 +1,4 @@
+Have a function that takes in a big int and returns the factorial of that big int
+Cannot have overflow, so use big int
+User cannot put in a non-big int. So in the console, have a try catch
+The user types it in
